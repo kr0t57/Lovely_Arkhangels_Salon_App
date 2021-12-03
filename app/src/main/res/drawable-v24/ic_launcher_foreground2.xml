@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <group android:scaleX="0.16664062"
+      android:scaleY="0.16664062"
+      android:translateX="11.34"
+      android:translateY="11.34">
+    <group>
+      <clip-path
+          android:pathData="M0,0h512v512h-512z"/>
+      <path
+          android:pathData="M0,0h512v512h-512z">
+        <aapt:attr name="android:fillColor">
+          <gradient 
+              android:startY="117.248"
+              android:startX="88.064"
+              android:endY="683.008"
+              android:endX="688.128"
+              android:type="linear">
+            <item android:offset="0" android:color="#00FB3C71"/>
+            <item android:offset="1" android:color="#00E32BBB"/>
+          </gradient>
+        </aapt:attr>
+      </path>
+      <path
+          android:pathData="M229.319,213.689q7.546,-58.212 35.3,-89.744t73.035,-31.531q45.276,0 45.276,31.262a76.543,76.543 0,0 1,-9.971 38.538A90.649,90.649 0,0 1,346.28 191.59q-32.879,22.1 -77.077,31.8 -10.78,92.708 -31.8,132.594Q286.992,372.694 304.24,377.275a141.172,141.172 0,0 0,36.383 4.582q19.134,0 26.141,-15.631t10.241,-15.631q6.468,0 6.468,8.085 0,25.333 -18.865,43.12T323.644,419.587q-22.638,0 -40.964,-7.546T259.503,402.334q-4.851,-2.156 -19.673,-9.163T219.08,383.474Q198.596,405.034 164.1,405.034 150.086,405.034 139.306,394.793T128.526,370.534q0,-30.723 35.035,-30.723 15.092,0 42.042,7.007 10.241,-32.34 21.56,-117.5 -5.929,0.539 -15.9,0.539t-9.971,-3.234Q201.291,216.384 229.319,213.689ZM270.819,207.76q34.5,-7.546 56.865,-25.6t22.368,-47.163q0,-29.106 -19.943,-29.106Q286.453,105.889 270.822,207.76ZM193.206,372.155Q161.944,358.68 154.668,358.68t-7.276,7.546q0,7.546 6.738,12.936t17.518,5.39Q182.426,384.552 193.206,372.155Z"
+          android:strokeWidth="1"
+          android:fillColor="#fff"
+          android:strokeColor="#fff"/>
+    </group>
+  </group>
+</vector>
